@@ -1,0 +1,25 @@
+#Eclipse
+.classpath
+.project
+.settings
+.\#*
+\#*
+.metadata
+.pydevproject
+
+# mvn temps
+target
+
+#OSX
+.DS_Store
+
+#Scala
+.cache
+.cache*
+
+# mvn droppings
+dependency-reduced-pom.xml
+
+#Spring Tools
+.springBeans
+
